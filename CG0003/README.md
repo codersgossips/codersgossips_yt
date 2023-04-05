@@ -1,5 +1,7 @@
 # VSCode custom installation
 
+https://www.youtube.com/watch?v=WNKjlGZPUtI
+
 ## Install using snap
 
 ```bash
