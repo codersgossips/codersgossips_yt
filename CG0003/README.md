@@ -17,7 +17,7 @@ sudo snap install --clasic code
 ## Custom installation
 
 - go to <https://code.visualstudio.com/download>
-- Download .tar.gz x64
+- Download .tar.gz x64  
   <img src="cg0003a.png" alt="VM1" width="800"/>
 - cd ~/Downloads
 - VSDIR=\<Install directory path\>
@@ -29,7 +29,6 @@ sudo snap install --clasic code
 - mkdir config
 - mkdir extensions
 - ./bin/code --user-data-dir $(pwd)/config --extensions-dir $(pwd)/extensions
-
 
 ## Adding alias to bashrc
 
